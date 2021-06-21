@@ -7,7 +7,7 @@ const settingPublic = require("./jsonFolder/settingPublic.json");
 const adminInfo = require("./jsonFolder/admin.json");
 const cre = adminInfo.cre;
 
-const setting = settingTest;
+const setting = settingPublic;
 
 
 client.cmd = new Collection();
