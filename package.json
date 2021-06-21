@@ -1,0 +1,28 @@
+{
+  "name": "discord-classic-bot",
+  "version": "1.0.0",
+  "description": "Source code classic for coding Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leanhtiennn/example.git"
+  },
+  "keywords": [
+    "discord bot",
+    "classic bot"
+  ],
+  "author": "LAT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leanhtiennn/example/issues"
+  },
+  "homepage": "https://github.com/leanhtiennn/example#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security"
+  }
+}
