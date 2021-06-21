@@ -1,0 +1,10 @@
+{
+    "token":"TOKEN_BOT_HERE",
+    "prefix":"PREFIX_HERE",
+
+    "presence":{
+        "status":"STATUS_HERE",
+        "name":"NAME_STATUS_HERE",
+        "type":"PLAYING"
+    }
+}
